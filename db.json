@@ -1,0 +1,14 @@
+{
+  "siswa": [
+    {
+      "id": 1,
+      "nama": "Ron",
+      "house": "Gryffindor"
+    },
+    {
+      "id": 2,
+      "nama": "Harmonie Granger",
+      "house": "Gryffindor"
+    }
+  ]
+}
